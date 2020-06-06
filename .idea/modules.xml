@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiagonalDifference/DiagonalDifference.iml" filepath="$PROJECT_DIR$/DiagonalDifference/DiagonalDifference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank.iml" filepath="$PROJECT_DIR$/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlusMinus/PlusMinus.iml" filepath="$PROJECT_DIR$/PlusMinus/PlusMinus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleArraySum/SimpleArraySum.iml" filepath="$PROJECT_DIR$/SimpleArraySum/SimpleArraySum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Staircase/Staircase.iml" filepath="$PROJECT_DIR$/Staircase/Staircase.iml" />
+    </modules>
+  </component>
+</project>
